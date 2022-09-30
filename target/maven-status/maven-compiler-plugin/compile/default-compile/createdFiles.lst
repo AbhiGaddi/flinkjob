@@ -1,0 +1,3 @@
+org/flink/connector/KafkaConnector.class
+org/flink/job/DataStreamJob.class
+org/flink/utils/JsonUtils.class

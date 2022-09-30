@@ -89,7 +89,7 @@
               <transformers>
                 <transformer />
                 <transformer>
-                  <mainClass>org.flink.DataStreamJob</mainClass>
+                  <mainClass>org.flink.job.DataStreamJob</mainClass>
                 </transformer>
               </transformers>
             </configuration>

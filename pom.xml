@@ -149,7 +149,7 @@
                                 <transformer
                                         implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>org.flink.DataStreamJob</mainClass>
+                                    <mainClass>org.flink.job.DataStreamJob</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
